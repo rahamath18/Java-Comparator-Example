@@ -14,9 +14,6 @@
 ### Output of this example
 
 Before (Comparator) sort		[8|EEE|555.55, 404|BBB|111.11, 305|CCC|333.33, 1|DDD|444.44, 2|AAA|222.22]
-
 After (Comparator) sort by Id		[1|DDD|444.44, 2|AAA|222.22, 8|EEE|555.55, 305|CCC|333.33, 404|BBB|111.11]
-
 After (Comparator) sort by Name		[2|AAA|222.22, 404|BBB|111.11, 305|CCC|333.33, 1|DDD|444.44, 8|EEE|555.55]
-
 After (Comparator) sort by Salary	[404|BBB|111.11, 2|AAA|222.22, 305|CCC|333.33, 1|DDD|444.44, 8|EEE|555.55]
